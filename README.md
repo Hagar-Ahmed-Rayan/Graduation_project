@@ -4,7 +4,10 @@ Also, it helps the patient to understand this  report  because Medical words  ar
 The radiologists only can upload  2  chest X-rays as input to the system, then the report is generated automatically.
 
 
-Demo link:https://drive.google.com/file/d/1MfUAT7XavDeASbgMoKye5uvEWYo5-2h_/view?usp=sharing
+Demo link:https://drive.google.com/file/d/1MfUAT7XavDeASbgMoKye5uvEWYo5-2h_/view?usp=sharing 
+
+
+
 Code :https://github.com/Hagar-Ahmed-Rayan/R2Gen-model
 
 
