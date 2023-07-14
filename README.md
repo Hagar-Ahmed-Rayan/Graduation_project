@@ -5,8 +5,8 @@ The radiologists only can upload  2  chest X-rays as input to the system, then t
 
 
 Demo link:https://drive.google.com/file/d/1MfUAT7XavDeASbgMoKye5uvEWYo5-2h_/view?usp=sharing
-code with deployment :https://github.com/Hagar-Ahmed-Rayan/R2Gen-model
+Code :https://github.com/Hagar-Ahmed-Rayan/R2Gen-model
 
 
 ![![252858709-6bf9132a-b45a-4653-b467-ddfa4b6ed027](https://github.com/Hagar-Ahmed-Rayan/Graduation_project/assets/73147463/fa9d03cb-e6ee-4477-ab65-805faf62a0fc)
-Uploading home-medical.png…]()
+
